@@ -69,7 +69,7 @@ Corra el punto decimal a derecha o izquierda un número de lugares indicado por 
 
 **6.-Exprese cada uno de los números siguientes como un número decimal regular**
 
-![image](https://user-images.githubusercontent.com/105570939/168457000-ca10839f-799b-4417-9f4f-57f338006e84.png)
+![image](https://user-images.githubusercontent.com/105570939/168458489-adb100f7-bdfc-4dc9-b781-2c8aee8a3ef8.png)
 
 **7.-Efectúe las siguientes sustracciones**
 
