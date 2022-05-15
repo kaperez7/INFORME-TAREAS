@@ -35,8 +35,8 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-**Capitulo 1: Cantidades y Unidades.
-Seccion 1-1**    			 
+**Capitulo 1: Cantidades y Unidades.**
+**Seccion 1-1**    			 
 **1.-¿Cuál es la unidad fundamental eléctrica?**
 El Ampere 
 **2.-enumere tantas cantidades eléctricas como sea posible, incluidos sus símbolos, unidades, y símbolos de unidad.**
