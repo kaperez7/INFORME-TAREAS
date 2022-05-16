@@ -120,9 +120,13 @@ Debe tener de uno a tres dígitos a la izquierda del punto decimal y el exponent
 **Sección 1-4**
 
  **16.-Determine lo siguiente**
+ 
   a)El número de microamperes en 1 miliampere  
+  
   b)El número de milivolts en 0.05 kilovolts
+  
   c)El número de megohms en 0.02 kilohms
+  
   d)El número de kilowatts en 155 miliwatts
 
 ![image](https://user-images.githubusercontent.com/105570939/168490471-cc991caa-098f-416b-8ca0-5f5abc90a96c.png)
@@ -143,7 +147,7 @@ Se conoce como átomo a la unidad mínima de una sustancia, lo que compone toda 
 
  Es el número total de protones que tiene cada átomo de algun elemento.
  
- **3.-¿Qué es un electrón libre?
+ **3.-¿Qué es un electrón libre?**
  
  Electrones de la órbita más apartada del núcleo de un átomo reciben el nombre de electrones de valencia.
  
@@ -175,7 +179,7 @@ Se conoce como átomo a la unidad mínima de una sustancia, lo que compone toda 
 
 ![image](https://user-images.githubusercontent.com/105570939/168496717-1354e025-8e81-49a1-8e3a-ccf0ad5b994d.png)
 
-**10.-¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+**10.-¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?**
 
 ![image](https://user-images.githubusercontent.com/105570939/168496807-ea64f119-e171-40d3-875d-3b4c20cd01e7.png)
 
@@ -205,13 +209,14 @@ Inducción electromagnetica.
 
 **16.-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas**
 
-![image](https://user-images.githubusercontent.com/105570939/168503745-b1006253-fe15-4807-9a61-3ff79291f876.png)
+![image](https://user-images.githubusercontent.com/105570939/168508538-532e9266-567f-4462-8a66-2d108eba8003.png)
 
 **17.-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas**
 
-![image](https://user-images.githubusercontent.com/105570939/168504690-63c76994-b88e-4755-89ae-1e5a065c549b.png)
+![image](https://user-images.githubusercontent.com/105570939/168508214-ad951e81-c6d9-43a3-80b7-605ccd7113bb.png)
 
 **18.-El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?**
+
 
 
 4. VIDEO
