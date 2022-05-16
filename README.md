@@ -239,6 +239,43 @@ Atraves del resistor 5.
 
 **22.-Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.**
 
+![image](https://user-images.githubusercontent.com/105570939/168518328-e4f7abd4-bce1-4c2b-9b90-5ed37192ec4b.png)
+
+![image](https://user-images.githubusercontent.com/105570939/168519011-88513c59-cb18-48eb-9a7c-88971d1ac9de.png)
+
+**sección 2-7: Mediciones de Circuitos Basicas**
+
+**23.-Explique cómo mediría la resistencia de R2 en la figura 2-72.**
+
+![image](https://user-images.githubusercontent.com/105570939/168521595-ab20398e-d77c-405f-ae34-483cc1f2b8d6.png)
+
+* Se desconecta la resistenia del circuito.
+* Selecciono en el multimetro el parametro para medir resistencias Ω.
+* Conecto el multimetro a las puntas de la resistencia (no importa la polaridad).
+
+**24.-En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.**
+
+El amperimetro se conectaria entre el lado negativo de la corriente y el interruptor.
+
+![image](https://user-images.githubusercontent.com/105570939/168522772-933f81ba-c0e6-496c-852c-8a3012e37920.png)
+
+**25.-Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.**
+
+Para medir voltaje, el voltímetro se conecta a través del componente para el cual el voltaje ha de ser medido. Tal conexión es una conexión en paralelO.
+Por lo que se necesita 6 voltimetros cada uno conectados a los extremos de los resistores que van a ser medidos.
+
+![image](https://user-images.githubusercontent.com/105570939/168524186-5fc00394-db37-42a3-88c4-a98e2e5c3fb3.png)
+
+**26.-¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?**
+
+![image](https://user-images.githubusercontent.com/105570939/168524441-25be4418-36ee-4786-9967-57aad7bcf215.png)
+
+![image](https://user-images.githubusercontent.com/105570939/168525408-e5faa44e-0697-4df5-b7f5-869e3cdf51de.png)
+
+**27.-¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?**
+
+Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
+
 
 
 4. VIDEO
