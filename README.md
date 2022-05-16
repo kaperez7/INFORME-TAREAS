@@ -201,6 +201,18 @@ Inducción electromagnetica.
 
 **15.-Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.**
 
+![image](https://user-images.githubusercontent.com/105570939/168502797-e299906f-1af9-471f-84ce-ee91a7c16b70.png)
+
+**16.-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas**
+
+![image](https://user-images.githubusercontent.com/105570939/168503745-b1006253-fe15-4807-9a61-3ff79291f876.png)
+
+**17.-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas**
+
+![image](https://user-images.githubusercontent.com/105570939/168504690-63c76994-b88e-4755-89ae-1e5a065c549b.png)
+
+**18.-El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?**
+
 
 4. VIDEO
 
