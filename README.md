@@ -207,15 +207,37 @@ Inducción electromagnetica.
 
 ![image](https://user-images.githubusercontent.com/105570939/168502797-e299906f-1af9-471f-84ce-ee91a7c16b70.png)
 
-**16.-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas**
+**16.-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas.**
 
 ![image](https://user-images.githubusercontent.com/105570939/168508538-532e9266-567f-4462-8a66-2d108eba8003.png)
 
-**17.-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas**
+**17.-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas.**
 
 ![image](https://user-images.githubusercontent.com/105570939/168508214-ad951e81-c6d9-43a3-80b7-605ccd7113bb.png)
 
-**18.-El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?**
+**18.-El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?.**
+
+![image](https://user-images.githubusercontent.com/105570939/168508732-593807ae-2ea9-4354-86a0-89a4eec74e52.png)
+
+La resistencia entre cada terminal es de 500 Ω.
+
+**19.-Determine la resistencia y la tolerancia de cada resistor rotulado como sigue.**
+
+![image](https://user-images.githubusercontent.com/105570939/168510060-90450bdc-a85f-43f5-84dd-c3e975439c5b.png)
+
+**Seccion 2-6: El Circuito Electrico.**
+
+**20.-Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.**
+
+![image](https://user-images.githubusercontent.com/105570939/168514595-28c26aa9-263e-41e2-8a85-b5a2100c0e48.png)
+
+**21.-¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?**
+
+![image](https://user-images.githubusercontent.com/105570939/168513509-af4a9fe2-88bc-40bb-918e-0e68c5fd80f0.png)
+
+Atraves del resistor 5.
+
+**22.-Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.**
 
 
 
