@@ -443,7 +443,7 @@ https://youtu.be/_Wmc9g7i0Qc
 
 Floyd, T. L. (2007). PRINCIPIOS DE circuitos elèctricos. Mexico: Pearson Educación
 
-Paguayo. (18 de Junio de 2019). MCI Capacitacion. Obtenido de MCI Capacitacion: https://cursos.mcielectronics.cl/2019/06/18/voltaje-corriente-resistencia-y-ley-de-ohm/
+Paguayo. (18 de Junio de 2019). MCI Capacitacion. Obtenido de MCI Capacitacion:https://cursos.mcielectronics.cl/2019/06/18/voltaje-corriente-resistencia-y-ley-de-ohm/
 
 RUBRICA
 
