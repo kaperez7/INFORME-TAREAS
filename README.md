@@ -57,6 +57,141 @@ ESTRUCTURA ATOMICA
 
 ![image](https://user-images.githubusercontent.com/105570939/168713010-bbd3fb90-1df0-4771-91a7-8a69a57f605a.png)
 
+**Número átomico:** El número atómico es igual al número de protones presentes en el núcleo.
+
+**Capas:** Dentro del átomo, cada órbita corresponde a un nivel de energía diferente conocido como capa.
+
+**orbitas:** Curvas que describe el electrón alredeor del nucleo.
+
+**Niveles de energía:** Existen 7 niveles de energía o capas donde pueden situarse los electrones, numerados del 1, el más interno, al 7, el más externo.
+
+**Electrones de valencia:** son electrones que estan ubicados en la capa mas externa del átomo.
+
+CATEGORIAS DE MATERIALES
+
+![image](https://user-images.githubusercontent.com/105570939/168727590-c1d6c104-1991-4b05-8444-711e1f15efb2.png)
+
+
+CARGA ELÉCTRICA
+
+Es aquella propiedad de determinadas partículas subatómicas que se produce cuando se relacionan unas con otras, esta interacción es electromagnética y se hace con las cargas positivas y negativas de la partícula.
+
+COULOMB: LA UNIDAD DE CARGA
+
+La carga eléctrica (Q) se mide en coulombs, simbolizada mediante C. Un coulomb es la carga total poseída por ![image](https://user-images.githubusercontent.com/105570939/168729450-baa1cb68-87c9-4758-8f2d-925bafbe2d56.png) electrones.
+
+![image](https://user-images.githubusercontent.com/105570939/168729628-6c3a598f-601e-4a16-b3d9-5be65df59c76.png)
+
+VOLTAGE, CORRIENTE Y RESISTENCIA 
+
+**Voltaje:** En circuitos eléctricos, el voltaje es la fuerza propulsora y es lo que establece la corriente.El voltaje, simbolizado mediante V, se define como energía o trabajo por unidad de carga. La unidad de voltaje es el volt, simbolizada mediante V.
+
+![image](https://user-images.githubusercontent.com/105570939/168731380-35012878-9d84-411a-8042-ed274ec35a0c.png)
+
+**Corriente:** Es el flujo de carga eléctrica que recorre un material.​ También se puede definir como un flujo de partículas cargadas, como electrones o iones, que se mueven a través de un conductor eléctrico.
+
+![image](https://user-images.githubusercontent.com/105570939/168732074-198946f7-22ff-4fb5-af39-290d98838e48.png)
+
+**Resistencia:** La resistencia es la oposición a la corriente. La resistencia se expresa en ohms, simbolizada mediante la letra griega omega.
+Existe un ohm (1 ) de resistencia si hay un ampere (1 A) de corriente en un material cuando se aplica un volt (1 V) al material.
+
+CONDUCTANCIA
+
+La conductancia es una medida de la facilidad con que se establece la corriente. Su unidad es el siemens (S).
+
+![image](https://user-images.githubusercontent.com/105570939/168733007-3c35f073-06ff-45e4-90dc-dc1221942d1d.png)
+
+FUENTES DE VOLTAJE Y DE CORRIENTE
+
+**La fuente de voltaje ideal:** Una fuente de voltaje ideal puede proporcionar un voltaje constante para cualquier corriente requerida por un circuito. La fuente de voltaje ideal no existe pero puede ser aproximada en la práctica.
+
+![image](https://user-images.githubusercontent.com/105570939/168733775-d4173a0d-87a9-4764-bb23-613f3cd62fc0.png)
+
+TIPOS DE FUENTES DE VOLTAJE DE CD
+
+**Baterias:** es un tipo de fuente de voltaje que convierte energía química en energía eléctrica. Los materiales utilizados en una celda de batería determinan el voltaje que se produce.
+
+**Clasificación de la bateria**
+
+Las baterías primarias se utilizan una vez y luego se desechan porque sus reacciones químicas son irreversibles; las baterías secundarias pueden ser recargadas.
+
+![image](https://user-images.githubusercontent.com/105570939/168734253-a5048fec-856e-4b8c-8e29-c57c20a9c0ed.png)
+
+**Celdas solares:** La operación de las celdas solares se basa en el efecto fotovoltaico, que es el proceso mediante el cual la energía luminosa se convierte directamente en energía eléctrica.
+
+![image](https://user-images.githubusercontent.com/105570939/168734817-2b781670-ddc6-4cdc-9e08-b048a011ad65.png)
+
+**Generador:** Convierten la energía mecánica en energía eléctrica por medio de un principio llamado inducción electromagnética. Se hace girar un conductor a través de un campo magnético, y de este modo se produce un voltaje que pasa por el conductor.
+
+![image](https://user-images.githubusercontent.com/105570939/168735267-a689c002-6e6b-497d-8894-f7e85c595924.png)
+
+**Termopares:** Un termopar se forma por la unión de dos metales disimilares y su operación se basa en el efecto Seebeck, el cual describe el voltaje generado en la unión de los metales como una función de la temperatura.
+
+**Sensores piezoeléctricos:** Estos sensores actúan como fuentes de voltaje y están basados en el efecto piezoeléctrico, en el cual se genera voltaje cuando un material piezoeléctrico es deformado mecánicamente por una fuerza externa.
+
+LA FUENTE DE CORRIENTE.
+
+**Fuente de corriente ideal:** puede proporcionar voltaje constante para cualquier carga. Una fuente de corriente ideal puede proporcionar una corriente constante para cualquier carga.
+
+**Fuente de corriente reales:** Estará constituida, por una fuente de corriente ideal con una resistencia interna conectada en paralelo.
+
+RESISTORES.
+
+Se denomina resistencia o resistor al componente electrónico diseñado para introducir una resistencia eléctrica determinada entre dos puntos de un circuito eléctrico.
+
+**Resistores Fijos:** están disponibles con una gran selección de valores de resistencia establecidos durante su fabricación y que no son fáciles de cambiar.
+
+**Resistores variables:** Están diseñados de modo que sus valores de resistencia sean fáciles de cambiar mediante un ajuste manual o automático. Dos usos básicos de los resistores variables son dividir el voltaje y controlar la corriente. El resistor variable utilizado para dividir voltaje se llama potenciómetro. El resistor variable empleado para controlar corriente se denomina reóstato.
+
+CÓDIGOS DE COLOR PARA RESISTORES.
+
+* Inicie con la banda más cercana a un extremo del resistor. La primera banda es el primer dígito del valor de resistencia.
+* La segunda banda es el segundo dígito del valor de resistencia.
+* La tercer banda es el número de ceros que van después del segundo dígito, o el multiplicador.
+* La cuarta banda indica la tolerancia en porcentaje y, por lo general, es de color oro o plata.
+
+![image](https://user-images.githubusercontent.com/105570939/168738487-48cab33e-3b64-4c2d-8d4e-6ae1e0868528.png)
+
+CÓDIGO DE COLORES DE 5 BANDAS.
+
+* La primera banda es el primer dígito del valor de resistencia.
+* La segunda es el segundo dígito.
+* La tercera el tercer dígito.
+* La cuarta es el multiplicador (número de ceros después del tercer dígito).
+* La quinta banda indica la tolerancia en porcentaje.
+
+![image](https://user-images.githubusercontent.com/105570939/168739221-2880fb34-7c33-4fa9-b0f0-c79a3b4e5155.png)
+
+CÓDIGOS DE ROTULADO PARA RESISTORES.
+
+No todos los tipos de resistores se codifican con bandas de color. Muchos, incluidos los de montaje superficial, utilizan marcado tipográfico para indicar su valor de resistencia y su tolerancia.
+
+**Rotulación numérica**
+* Los primeros dos dígitos proporcionan los primeros dos dígitos del valor de resistencia.
+* El tercer dígito corresponde al multiplicador o cantidad de ceros que van después de los primeros dos dígitos.
+
+**Rotulación alfanumérica**
+
+La letra se utiliza para indicar el multiplicador, y su posición señala el lugar del punto decimal.
+* La letra R significa un multiplicador de 1.
+* La K indica un multiplicador de 1000.
+* La M indica un multiplicador de 1,000,000.
+
+![image](https://user-images.githubusercontent.com/105570939/168740375-89255b89-1a2d-4857-89ad-b6b81d987003.png)
+
+EL CIRCUITO BÁSICO
+
+De modo básico, un circuito se compone de una fuente de voltaje, una carga, y una trayectoria para la corriente que haya entre la fuente y la carga.
+
+MEDICIONES DE CIRCUITO BÁSICAS.
+
+![image](https://user-images.githubusercontent.com/105570939/168743578-1d464b8b-428b-496e-b810-bc358d15a821.png)
+
+MULTÍMETRO DIGITALES
+
+Un instrumento electrónico que combina medidores para efectuar la medición de voltaje, corriente y resistencia. Los multímetros digitales son el tipo de instrumento de medición electrónico más utilizado.
+
+![image](https://user-images.githubusercontent.com/105570939/168744365-7981d127-f765-44f4-9793-e6bb5e1a2a39.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
