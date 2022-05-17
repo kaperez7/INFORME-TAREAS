@@ -1,25 +1,14 @@
 # INFORME TAREA #1
 
 
-1. OBJETIVOS
+1. OBJETIVOS.
 
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
-El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
+Investigar conceptos basicos sobre circuitos electricos y sus componentes, mediante la lectura del libro electronico de principios de circuitos electricos de Floyd para adquirir las bases necesarias que me permitan resolver problemas sobre el tema.  
 
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados. 
-
-Los objetivos de investigación deben cumplir ciertas características: 
-* Deben ser concretos, cuantificables, verificables 
-* Deben estar redactados utilizando verbos en infinitivo 
-* Deben ser alcanzables por el investigador. 
-* Tienen que estar ligados con el tiempo. 
-
-
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
-
-Considerar la Taxonomía de Bloom
+* Aprender a representar cantidades en las diferentes notaciones.
+* Conocer los diferentes elementos que sirven para armar un circuito.
+* Desarrollar ejercicios y mediciones de los componentes de un circuito.
+* Comprender el riesgo al trabajar con corriente. 
 
 2. MARCO TEÓRICO (RESUMEN).
 
@@ -192,6 +181,10 @@ MULTÍMETRO DIGITALES
 Un instrumento electrónico que combina medidores para efectuar la medición de voltaje, corriente y resistencia. Los multímetros digitales son el tipo de instrumento de medición electrónico más utilizado.
 
 ![image](https://user-images.githubusercontent.com/105570939/168744365-7981d127-f765-44f4-9793-e6bb5e1a2a39.png)
+
+EFECTOS DE LA CORRIENTE EN EL CUERPO HUMANO.
+
+![image](https://user-images.githubusercontent.com/105570939/168785596-88d36e75-2a51-4506-81d9-72f3930b885e.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -438,17 +431,17 @@ Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
 4. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
-
+https://youtu.be/_Wmc9g7i0Qc
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
-
+* Mediante la lectura del capitulo 1 del libro de Floyd, se evidencio la importancia de saber representar distintos valores en las notaciones correspondientes ya que facilitan su comprension ademas de ser utiles al momento de realizar operaciones matemàticas y conversiones de unidades. 
+* A lo largo de la investigacion se dieron a conocer varios elementos importantes que forman parte de un circuito electrico, se evidencio sus funcionalidades los tipos y diversas caracterìsticas que nos ayudaran en la fabricaciòn de un circuito ademas de aprender los simbolos que cada uno tiene en la representacion gràfica.
+* Al estudiar varios conceptos generales sobre resistencias, cargas estre otras cosas se dio a conocer que dichos componentes tienen valores que se pueden encontrar por diferentes metodos como tablas, o ecuaciones y estos valores nos ayudan a observar si un circuito funciona correctamente pero lo mas importante da a conocer valores teoricos que se pueden utilizar para identificar si mi circuito esta armado de una forma adecuada o si va a funcionar correctamente.
+* Lo mas importante para mi es la seguridad y al descubrir los riesgos que se tiene por manipular electricidad deja reflejado que aunque parece que se trabaja con valores pequeños y parecen inofensivos pues la realidad es diferente y tener cuidado y prestar atencion al trabajo que estemos realizando.  
 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
+Floyd, T. L. (2007). PRINCIPIOS DE circuitos elèctricos. Mexico: Pearson Educación
 
 RUBRICA
 
